@@ -12,18 +12,26 @@ In the iterators lab we will be continuing our exploration of iterators and buil
 Research the following term and summarize your findings on it two to three sentences:
 
 * `higher-order function`
+		H-O func can take a func as an argument that it can then use to modify what it does. It can also return a function.
 
 Pretending we implemented the following methods, update this README with a description of each of the following and an example you've created:
 
 * `max`
+			Returns the highest value in an array.
 * `min`
+		Returns the lowest value in an array.
 * `each`
+		Runs through the array and does something with each element in the array.
 * `map`
+		Runs through an array, does something with each value, and returns an array of the resulting values.
 * `filter`: [note](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
+		Runs through an array and eliminates items that don't conform to a set of conditions.
 * `reduce`: [note](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce)
+		Runs through an array and uses a function to mash all the value into a single thingy.
 * `reject`: [note](http://underscorejs.org/#reject)
+		Runs through an array and keeps the itesm that don't conform to a set of conditions.
 
-Use the notes provided to help guide you explanation.
+Use the notes provided to help guide your explanation.
 
 
 ### Phase-2
